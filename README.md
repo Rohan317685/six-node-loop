@@ -17,7 +17,7 @@ It is a 6 node transistor only signal network where each block drives, perturbs 
 | 100nF capacitor                  | For decoupling                  | 50       | $1.07   | https://www.lcsc.com/product-detail/C89258.html                                                       |
 | 10uF Electrolytic Capacitor      | For decoupling                  | 50       | $ 1.05  | https://www.lcsc.com/product-detail/C2841113.html                                                     |
 | Red LED                          | For showing the patterns        | 20       | $ 0.73  | https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_red_C99772.html                         |
-| 1n41482 diode                    | For reverse polarity protection | 20       | $0.59   | https://www.lcsc.com/product-detail/Switching-Diode_Changjiang-Electronics-Tech-CJ-1N4148W_C2099.html |
+| 1n41482 diode                    | For reverse polarity protection | 5        | $.73   | https://www.lcsc.com/product-detail/C112342.html |
 |  Pin header 1x2                  | For power supply                | 20       | $ 0.61  | https://www.lcsc.com/product-detail/C124375.html                                                      |
 | Transistor JSCJ C1815 120~240-TA | For the transistors ofc         | 40       | $  1.04 | https://www.lcsc.com/product-detail/C382004.html                                                      |
 | Resistor 100k                    | For resisting                   | 100      | $0.29   | https://www.lcsc.com/product-detail/C416061.html                                                      |
